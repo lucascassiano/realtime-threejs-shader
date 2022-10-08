@@ -1,0 +1,15 @@
+{
+  "name": "realtime-threejs-shader",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "repository": "https://github.com/lucascassiano/realtime-threejs-shader.git",
+  "author": "lucascassiano <lucascassiano21@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "three": "^0.143.0"
+  },
+  "scripts": {
+    "serve": "node ./src/app.js"
+  }
+}
